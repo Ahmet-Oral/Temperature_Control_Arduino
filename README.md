@@ -6,6 +6,7 @@ Embedded Systems
 ###### Instructor:
 Assoc. Dr. Ufuk BAL
 
+
 ## Required Components:
 - Arduino Uno
 - DHT11 Heat Sensor
